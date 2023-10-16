@@ -121,8 +121,11 @@
 #
 
 
-<p><img align="left" style="width:400px" src="https://github-readme-stats.vercel.app/api?username=soyvitou2019&show_icons=true&locale=en" alt="soyvitou2019" /></p>
-<p><img align="right" style="width:400px" src="https://github-readme-streak-stats.herokuapp.com/?user=soyvitou2019&" alt="soyvitou2019" /></p>
+### 📊 Stats and Contributions
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoyVitou2019&show_icons=true&theme=gruvbox)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SoyVitou2019&theme=tokyonight-duo&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+
 
 
 
