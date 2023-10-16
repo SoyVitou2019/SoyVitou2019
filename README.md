@@ -33,8 +33,8 @@
 
 <hr>
 <hr>
-<p><img align="left" style="width:420px" src="https://github-readme-stats.vercel.app/api?username=soyvitou2019&show_icons=true&locale=en" alt="soyvitou2019" /></p>
-<p><img align="right" style="width:420px" src="https://github-readme-streak-stats.herokuapp.com/?user=soyvitou2019&" alt="soyvitou2019" /></p>
+<p><img align="left" style="width:400px" src="https://github-readme-stats.vercel.app/api?username=soyvitou2019&show_icons=true&locale=en" alt="soyvitou2019" /></p>
+<p><img align="right" style="width:400px" src="https://github-readme-streak-stats.herokuapp.com/?user=soyvitou2019&" alt="soyvitou2019" /></p>
 
 
 
