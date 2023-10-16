@@ -1,6 +1,9 @@
 [![MasterHead](https://scontent.fpnh2-2.fna.fbcdn.net/v/t39.30808-6/391629079_343195738234217_5501188657730938117_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHC25tyLf-JpuWfU6MCL3gzOpUCFMtpA8U6lQIUy2kDxXBJ7VtNI2Z9CuS64Zh-0E5IZu0FZpBx-PxRvnR-kmQb&_nc_ohc=YUflGI--BzEAX9cQHlo&_nc_zt=23&_nc_ht=scontent.fpnh2-2.fna&oh=00_AfBrTfwUiLItFrqStVBaucnKhhVzPFQqrsVPbOIyKs9MqQ&oe=6531F1D2)](https://github.com/SoyVitou2019)
 <h1 align="center">Hi 👋, I'm Soy Vitou Pro</h1>
+
+
 <h3 align="center">A passionate on Machine learning and Computer Graphic from Cambodia</h3>
+
 <img align="right" alt="coding" width="400" src="Ry6p-unscreen.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soyvitou2019&label=Profile%20views&color=0e75b6&style=flat" alt="soyvitou2019" /> </p>
@@ -17,6 +20,10 @@
 
 - ⚡ Fun fact **I think I am funny**
 
+<br />
+
+#
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/soy vitou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="soy vitou" height="30" width="40" /></a>
@@ -29,8 +36,9 @@
 </p>
 
 
+<br />
 
----
+#
 
 ### 🏆 My Real Color
 
@@ -107,10 +115,21 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<hr>
-<hr>
+
+<br />
+
+#
+
+
 <p><img align="left" style="width:400px" src="https://github-readme-stats.vercel.app/api?username=soyvitou2019&show_icons=true&locale=en" alt="soyvitou2019" /></p>
 <p><img align="right" style="width:400px" src="https://github-readme-streak-stats.herokuapp.com/?user=soyvitou2019&" alt="soyvitou2019" /></p>
+
+
+
+
+
+
+
 
 
 
