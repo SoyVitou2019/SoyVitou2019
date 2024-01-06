@@ -9,9 +9,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soyvitou2019&label=Profile%20views&color=0e75b6&style=flat" alt="soyvitou2019" /> </p>
 
-- 🔭 I’m currently working on [Animal Recognition](https://animal-recognition.streamlit.app/)
+- 🔭 I’m currently working on Machine Learning ( Image Processing )
 
-- 🌱 I’m currently learning **Python, Flask, JavaScript, React, etc...**
+- 🌱 I’m currently learning **Python, Pytorch, Tensorflow, JavaScript, React, etc...**
 
 - 👯 I’m looking to collaborate on **Machine Learning**
 
@@ -36,6 +36,10 @@
 <p> For 1 Year I was completed Big Data course and get certificate from SIC ( Samsung Innovation Campus ). The final project is Traffic Analysis </p>
 <h2><a href="https://www.facebook.com/UniversityIndustryCooperationCenter">🌱 Participated Busines StartUp of UICC  </a></h2>
 <p> We have spend time for 5 months to create a busines model of Tourism in Cambodia and make a presentation of our ideas </p>
+<br />
+
+# 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/soy vitou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="soy vitou" height="30" width="40" /></a>
