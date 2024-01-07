@@ -1,5 +1,9 @@
 [![MasterHead](391629079_343195738234217_5501188657730938117_n.jpg)](https://github.com/SoyVitou2019)
-<h1 align="center">Hi 👋, I'm Soy Vitou Pro</h1>
+<h1 align="center">
+  Hi 👋, I'm Soy Vitou Pro
+  <hr />
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=soyvitou2019&label=Profile%20views&color=be4d25&style=for-the-badge" alt="soyvitou2019" /> </p>
+</h1>
 
 
 
@@ -7,7 +11,7 @@
 
 <img align="right" alt="coding" width="400" src="Ry6p-unscreen.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soyvitou2019&label=Profile%20views&color=0e75b6&style=flat" alt="soyvitou2019" /> </p>
+
 
 - 🔭 I’m currently working on Machine Learning ( Image Processing )
 
@@ -37,6 +41,40 @@
 <h2><a href="https://www.facebook.com/UniversityIndustryCooperationCenter">🌱 Participated Busines StartUp of UICC  </a></h2>
 <p> We have spend time for 5 months to create a busines model of Tourism in Cambodia and make a presentation of our ideas </p>
 <br />
+
+<h3>Open source projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+      <td><b>🛠 Commits</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="white-space: nowrap; max-width: 300px;"><a href="https://github.com/SoyVitou2019/Online-Learning-Platform" ><b>Online&nbsp;Learning&nbsp;Platform</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/SoyVitou2019/Online-Learning-Platform?style=for-the-badge&labelColor=343b41&color=be4d25"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/SoyVitou2019/Online-Learning-Platform?style=for-the-badge&labelColor=343b41&color=be4d25"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/SoyVitou2019/Online-Learning-Platform?style=for-the-badge&labelColor=343b41&color=be4d25"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SoyVitou2019/Online-Learning-Platform?style=for-the-badge&labelColor=343b41&color=be4d25"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/m/SoyVitou2019/Online-Learning-Platform?style=for-the-badge&labelColor=343b41&color=be4d25"/></td>
+    </tr>
+    <tr>
+      <td style="white-space: nowrap; max-width: 300px;"><a href="https://github.com/SoyVitou2019/ML_Tkinter_UI"><b>UI&nbsp;Image&nbsp;Classification&nbsp;Using&nbsp;Tkinter</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/SoyVitou2019/ML_Tkinter_UI?style=for-the-badge&labelColor=343b41&color=be4d25"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/SoyVitou2019/ML_Tkinter_UI?style=for-the-badge&labelColor=343b41&color=be4d25"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/SoyVitou2019/ML_Tkinter_UI?style=for-the-badge&labelColor=343b41&color=be4d25"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SoyVitou2019/ML_Tkinter_UI?style=for-the-badge&labelColor=343b41&color=be4d25"/></td>
+      <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/m/SoyVitou2019/ML_Tkinter_UI?style=for-the-badge&labelColor=343b41&color=be4d25"/></td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 # 
 
