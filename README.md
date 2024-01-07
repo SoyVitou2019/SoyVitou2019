@@ -2,8 +2,14 @@
 <h1 align="center">
   Hi 👋, I'm Soy Vitou Pro
   <hr />
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=soyvitou2019&label=Profile%20views&color=be4d25&style=for-the-badge" alt="soyvitou2019" /> </p>
+  <table align="center">
+    <tr border: none;>
+      <td><img src="https://komarev.com/ghpvc/?username=soyvitou2019&label=Profile%20views&color=be4d25&style=for-the-badge" alt="soyvitou2019" /></td>
+      <td><img src="https://img.shields.io/github/followers/SoyVitou2019?label=Followers&style=for-the-badge" alt="soyvitou2019" /></td>
+    </tr>
+</table>
 </h1>
+
 
 
 
@@ -24,6 +30,21 @@
 - 📫 How to reach me **Soy vitou Pro**
 
 - ⚡ Fun fact **I think I am funny**
+
+<br />
+
+# 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://stackoverflow.com/users/soy vitou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="soy vitou" height="30" width="40" /></a>
+<a href="https://kaggle.com/soy vitou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="soy vitou" height="30" width="40" /></a>
+<a href="https://fb.com/soy vitou pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soy vitou pro" height="30" width="40" /></a>
+<a href="https://instagram.com/soyvitoupro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soyvitoupro" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/soy vitou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="soy vitou" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/soy vitou pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soy vitou pro" height="30" width="40" /></a>
+<a href="https://discord.gg/Vitou Pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Vitou Pro" height="30" width="40" /></a>
+</p>
 
 <br />
 
@@ -75,19 +96,14 @@
 </table>
 
 
+### 📊 Stats and Contributions
 
-# 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/soy vitou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="soy vitou" height="30" width="40" /></a>
-<a href="https://kaggle.com/soy vitou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="soy vitou" height="30" width="40" /></a>
-<a href="https://fb.com/soy vitou pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soy vitou pro" height="30" width="40" /></a>
-<a href="https://instagram.com/soyvitoupro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soyvitoupro" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/soy vitou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="soy vitou" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/soy vitou pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soy vitou pro" height="30" width="40" /></a>
-<a href="https://discord.gg/Vitou Pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Vitou Pro" height="30" width="40" /></a>
+<p>
+  <img width="380px" align="left" src= "https://github-readme-stats.vercel.app/api?username=SoyVitou2019&show_icons=true&theme=gruvbox">
+  <img width="400px" align="right" src="https://streak-stats.demolab.com?user=SoyVitou2019&theme=tokyonight-duo&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat">
 </p>
+
+
 
 
 <br />
@@ -130,12 +146,7 @@
 #
 
 
-### 📊 Stats and Contributions
 
-<p>
-  <img width="380px" align="left" src= "https://github-readme-stats.vercel.app/api?username=SoyVitou2019&show_icons=true&theme=gruvbox">
-  <img width="400px" align="right" src="https://streak-stats.demolab.com?user=SoyVitou2019&theme=tokyonight-duo&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat">
-</p>
 
 
 
