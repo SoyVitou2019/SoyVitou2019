@@ -50,7 +50,7 @@
 
 #
 
-<p align=left>🚀 Key Achievements:</p>
+<h2 align=left>🚀 Key Achievements:</h2>
 <h2><a href="https://www.researchgate.net/publication/376751387_Animal_Classification_using_Convolutional_Neural_Network">🏆 Best Award-Paper </a> </h2>
 <p>Recognized by CADT 2th student conference digital technology ( SCDT ), topic is research about Animal Classification using Convolutional Neural Network. We focus on which algorithm is the best one for animal classification using CNN</p>
 <h2><a href="https://www.researchgate.net/publication/376751358_Animal_Classification_using_Hybrid_Model">🥈 Top-2 Engineering Day Year2 Competition </a></h2> 
@@ -96,19 +96,8 @@
 </table>
 
 
-### 📊 Stats and Contributions
+<hr />
 
-<p>
-  <img width="380px" align="left" src= "https://github-readme-stats.vercel.app/api?username=SoyVitou2019&show_icons=true&theme=gruvbox">
-  <img width="400px" align="right" src="https://streak-stats.demolab.com?user=SoyVitou2019&theme=tokyonight-duo&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat">
-</p>
-
-
-
-
-<br />
-
-#
 
 <h3 align="left">Languages and Tools:</h3>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
@@ -121,11 +110,18 @@
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
 
-#
+<hr />
+### 📊 Stats and Contributions
+
+<p>
+  <img width="380px" align="left" src= "https://github-readme-stats.vercel.app/api?username=SoyVitou2019&show_icons=true&theme=gruvbox">
+  <img width="400px" align="right" src="https://streak-stats.demolab.com?user=SoyVitou2019&theme=tokyonight-duo&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat">
+</p>
+
+<br />
 
 
-
-
+<hr />
 
 
 
