@@ -133,8 +133,8 @@
 ### 📊 Stats and Contributions
 
 <p>
-  <img width="380px" src= "https://github-readme-stats.vercel.app/api?username=SoyVitou2019&show_icons=true&theme=gruvbox">
-  <img width="400px" src="https://streak-stats.demolab.com?user=SoyVitou2019&theme=tokyonight-duo&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat">
+  <img width="380px" align="left" src= "https://github-readme-stats.vercel.app/api?username=SoyVitou2019&show_icons=true&theme=gruvbox">
+  <img width="400px" align="right" src="https://streak-stats.demolab.com?user=SoyVitou2019&theme=tokyonight-duo&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat">
 </p>
 
 
